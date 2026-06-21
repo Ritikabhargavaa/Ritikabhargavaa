@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Ritikabhargavaa
-- 👀 I’m interested in coding
-- 🌱 I’m currently pursuing integrated MCA
-- 💞️ I’m looking to collabrote on projects related to frontend
+# Hi, I'm Ritika Bhargava 👋
 
+🚀 Cloud & DevOps Engineer
 
-<!---
-Ritikabhargavaa/Ritikabhargavaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- AWS
+- Linux
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- Git & GitHub
+- CI/CD
+
+## About Me
+I am a Cloud and DevOps Engineer with experience in AWS cloud services, Linux administration, containerization, infrastructure automation, and CI/CD pipelines. I enjoy learning new technologies and building scalable cloud solutions.
+
+## Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
