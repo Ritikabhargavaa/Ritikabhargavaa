@@ -1,126 +1,18 @@
-# 👋 Hi, I'm Ritika Bhargava
+# 💫 About Me:
+Hi, I'm Ritika, an aspiring DevOps and Cloud Engineer passionate about cloud computing, automation, and infrastructure management. I have hands-on experience working with AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, Prometheus, and Grafana through practical projects. I enjoy building and automating deployment pipelines, managing cloud infrastructure, and exploring new technologies. I'm continuously learning and improving my skills in DevOps and cloud-native technologies, and I'm open to collaboration and entry-level opportunities where I can learn, contribute, and grow as an engineer.
 
-### 💻 DevOps Engineer | Cloud Enthusiast | Python Learner
 
-I'm interested in **DevOps, Cloud Computing, Automation, and Infrastructure**.
-I enjoy learning new technologies and building hands-on projects to improve my technical skills.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ritika-bhargav-791b9b2a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikaabhargav24@gmail.com) 
 
-## 🚀 About Me
-
-* 🔭 I'm currently working on **DevOps and Cloud projects**
-* 🌱 I'm currently learning **Python, AWS, Docker, Kubernetes, and Terraform**
-* ☁️ Interested in **Cloud & DevOps Engineering**
-* 🛠️ I enjoy working with **CI/CD, Infrastructure as Code, and containerization**
-* 💬 Ask me about **AWS, Linux, Docker, Kubernetes, Terraform, and Jenkins**
-* 📍 Based in **India**
-
-## 🛠️ Tech Stack
-
-### Cloud
-
-* AWS
-
-### DevOps & Infrastructure
-
-* Docker
-* Kubernetes
-* Jenkins
-* Terraform
-* Ansible
-* Git
-
-### Monitoring
-
-* Prometheus
-* Grafana
-
-### Operating Systems & Scripting
-
-* Linux
-* Windows
-* Bash / Shell Scripting
-* Python
-
-### Other
-
-* YAML
-* JSON
-
-## 📌 Featured Projects
-
-### 🛒 E-Commerce DevOps & AWS Deployment
-
-An end-to-end DevOps project focused on deploying an e-commerce application using AWS and DevOps tools.
-
-**Technologies:**
-AWS | Docker | Kubernetes | Jenkins | Terraform | NGINX
-
-### 🏗️ Terraform AWS Two-Tier Architecture
-
-Infrastructure automation project using Terraform to create an AWS two-tier architecture with networking, EC2 instances, load balancing, security groups, and public/private subnets.
-
-**Technologies:**
-AWS | Terraform | VPC | EC2 | ALB
-
-### 📝 Python Text Editor
-
-A simple desktop text editor built using Python and Tkinter.
-
-**Features:**
-
-* Create new files
-* Open `.txt` files
-* Edit text
-* Save files
-* File menu with New, Open, Save, and Exit
-
-**Technologies:**
-Python | Tkinter | File Handling
-
-### 📸 Python Image Slideshow
-
-A GUI-based image slideshow application built with Python, Tkinter, and Pillow.
-
-**Features:**
-
-* Load multiple images
-* Resize images
-* Display images sequentially
-* Time-based image transitions
-
-**Technologies:**
-Python | Tkinter | Pillow
-
-## 📚 Currently Learning
-
-* Python
-* AWS
-* Kubernetes
-* Terraform
-* CI/CD
-* Linux
-* DevOps Automation
-
-## 🎯 Goals
-
-* Build real-world DevOps and Cloud projects
-* Strengthen my Python and automation skills
-* Improve my problem-solving abilities
-* Continue learning and exploring Cloud technologies
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritikabhargavaa\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikabhargavaa\&layout=compact)
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: www.linkedin.com/in/ritika-bhargav-791b9b2a4
-* 🐙 GitHub: github.com/Ritikabhargavaa
-* 📧 Email: ritikaabhargav24@gmail.com
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ritikabhargavaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ritikabhargavaa&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritikabhargavaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Ritikabhargavaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💡 Keep Learning. Keep Building. Keep Growing. 🚀
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
