@@ -23,11 +23,10 @@
   <img src="https://img.shields.io/badge/Email-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Ritikabhargavaa">
-  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br/><br/>
-
+</div>
 
 ---
 
@@ -119,10 +118,9 @@ QualiBytesShop is an e-commerce application built with Next.js, TypeScript, and 
 | Dimension | Details |
 |:--|:--|
 | Stack | AWS, Terraform, Docker, Docker Compose, Jenkins, Kubernetes, MongoDB, Trivy |
-| Scale | Containerized application with a database migration workflow |
-| Performance | Multi-stage Docker builds and parallel build stages |
-| Security | Trivy image scanning, AWS IAM, network isolation, Kubernetes configurations |
-| Impact | Repeatable infrastructure and automated build and deployment workflows |
+| Infrastructure | AWS VPC, EKS, and bastion-host resources |
+| Build & Deployment | Multi-stage Docker builds and Jenkins pipeline |
+| Security | Trivy image scanning and network access controls |
 | Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/ECOMMERCE) |
 
 **Engineering Contributions**
@@ -151,10 +149,9 @@ An AWS networking project focused on designing a structured VPC, separating publ
 | Dimension | Details |
 |:--|:--|
 | Stack | AWS VPC, EC2, IAM, Security Groups, NACLs, Internet Gateway, NAT Gateway |
-| Scale | Multi-subnet network architecture |
-| Performance | Organized routing and controlled outbound connectivity |
+| Architecture | Public and private subnet design |
+| Networking | Route tables and controlled connectivity |
 | Security | Network segmentation and access-control rules |
-| Impact | Practical understanding of AWS networking and cloud security |
 | Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/secure-vpc-ec2-project) |
 
 **Engineering Contributions**
@@ -181,10 +178,9 @@ An Infrastructure as Code project exploring repeatable AWS resource provisioning
 | Dimension | Details |
 |:--|:--|
 | Stack | Terraform, AWS, VPC, EC2, networking resources |
-| Scale | Two-tier infrastructure design |
-| Performance | Repeatable provisioning and reduced manual configuration |
+| Architecture | Two-tier infrastructure design |
+| Automation | Repeatable provisioning and reduced manual configuration |
 | Security | Network segmentation and controlled resource access |
-| Impact | Improved understanding of maintainable infrastructure definitions |
 | Repository | [Browse GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
 
 **Engineering Contributions**
@@ -211,10 +207,8 @@ A Terraform project exploring database-related infrastructure configuration and 
 | Dimension | Details |
 |:--|:--|
 | Stack | Terraform, AWS infrastructure concepts |
-| Scale | Database-related infrastructure configuration |
-| Performance | Repeatable provisioning and configuration consistency |
-| Security | Exploration of access controls and secure configuration |
-| Impact | Practice in infrastructure maintainability and reliability concepts |
+| Focus | Database-related infrastructure configuration |
+| Automation | Repeatable provisioning and configuration consistency |
 | Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/terraform-db-reliability) |
 
 **Engineering Focus**
@@ -238,10 +232,8 @@ A containerization project focused on defining and managing multi-service applic
 | Dimension | Details |
 |:--|:--|
 | Stack | Docker, Docker Compose, YAML |
-| Scale | Multi-service development environment |
-| Performance | Reusable container definitions and service configuration |
-| Security | Container isolation and environment-based configuration concepts |
-| Impact | Repeatable local development environments |
+| Focus | Multi-service development environment |
+| Automation | Reusable container definitions and service configuration |
 | Repository | [Browse GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
 
 **Engineering Focus**
@@ -280,28 +272,34 @@ A containerization project focused on defining and managing multi-service applic
 |:--|:--|
 | Integrated Computing Education | Integrated BCA and MCA academic background at IIPS, DAVV, Indore |
 | DevOps Project Experience | Practical projects involving AWS, Terraform, Docker, Kubernetes, and Jenkins |
-| Infrastructure Automation | Hands-on work with infrastructure configuration and deployment workflows |
-| Cloud-Native Technologies | Experience exploring containers, Kubernetes manifests, and cloud infrastructure |
+| Infrastructure Automation | Practical work with infrastructure configuration and deployment workflows |
+| Cloud-Native Technologies | Projects exploring containers, Kubernetes manifests, and cloud infrastructure |
 | Continuous Learning | Ongoing development of cloud, automation, scripting, and AI/ML fundamentals |
 
 ---
 
 ## Certifications
 
-## Certifications
-
 <div align="center">
 
-<a href="https://www.credly.com/users/ritika-bhargav">
-  <img src="https://img.shields.io/badge/Credly-View%20My%20Credentials-6D28D9?style=for-the-badge&logo=credly&logoColor=white" alt="View my Credly credentials"/>
+<a href="https://www.coursera.org/account/accomplishments/verify/BNE6S4TMWMLD">
+  <img src="https://img.shields.io/badge/Python%20Crash%20Course-Coursera-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" alt="Python Crash Course Certificate"/>
 </a>
 
-<br/><br/>
+<a href="https://www.credly.com/badges/7043854d-30a4-4cb0-b547-871d6ea0bb57">
+  <img src="https://img.shields.io/badge/Google%20UX%20Design-Coursera-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google UX Design Professional Certificate"/>
+</a>
 
-<a href="https://www.credly.com/users/ritika-bhargav">View my Credly profile and available credentials</a>
+<a href="https://www.credly.com/users/ritika-bhargav">
+  <img src="https://img.shields.io/badge/Credly-View%20Credentials-6D28D9?style=for-the-badge&logo=credly&logoColor=white" alt="Credly profile"/>
+</a>
 
 </div>
 
+- **Python Crash Course** — Coursera | [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/BNE6S4TMWMLD)
+- **DevOps + AWS Program** — QualiBytes IT Academy | Certificate ID: `QB/QA07570`
+- **Google UX Design Professional Certificate** — Coursera | [View Credential](https://www.credly.com/badges/7043854d-30a4-4cb0-b547-871d6ea0bb57)
+- **Additional Credentials** — [View my Credly Profile](https://www.credly.com/users/ritika-bhargav)
 
 ---
 
@@ -309,18 +307,17 @@ A containerization project focused on defining and managing multi-service applic
 
 <div align="center">
 
-<a href="https://github.com/Ritikabhargavaa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ritikabhargavaa&show_icons=true&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Ritikabhargavaa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikabhargavaa&layout=compact&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used programming languages"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ritikabhargavaa&show_icons=true&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikabhargavaa&layout=compact&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used programming languages"/>
 
 <br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Ritikabhargavaa&hide_border=true&background=0D0B1E&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
 
 </div>
+
+---
 
 ## Current Focus
 
