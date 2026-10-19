@@ -1,25 +1,25 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,35:312E81,70:6D28D9,100:4338CA&height=200&section=header&text=Ritika%20Bhargava&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20%7C%20Cloud%20%7C%20DevOps%20%7C%20AI%2FML&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,35:312E81,70:6D28D9,100:4338CA&height=200&section=header&text=Ritika%20Bhargava&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%7C%20AWS%20Cloud%20%7C%20Infrastructure%20Automation&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Reliable+Cloud-Native+Systems;Engineering+Scalable+CI%2FCD+Pipelines;Exploring+AI%2FML+and+Intelligent+Automation;Turning+Infrastructure+into+Code;Learning%2C+Building%2C+and+Shipping+Continuously" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Reliable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Working+with+AWS%2C+Terraform+and+Kubernetes;Exploring+Cloud-Native+Technologies;Learning+and+Building+Continuously" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Integrated%20BCA%20%2B%20MCA-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="Integrated degree"/>
-<img src="https://img.shields.io/badge/IIPS%20DAVV-Indore-4338CA?style=flat-square&logo=google-scholar&logoColor=white" alt="Education"/>
+<img src="https://img.shields.io/badge/Integrated%20BCA%20%2B%20MCA-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="Education"/>
+<img src="https://img.shields.io/badge/IIPS%20DAVV-Indore-4338CA?style=flat-square&logo=google-scholar&logoColor=white" alt="College"/>
 <img src="https://img.shields.io/badge/Location-Indore%2C%20India-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 
 <br/><br/>
 
-<a href="https://github.com/Ritikabhargavaa">
+<a href="https://github.com/Ritikabhargavaa?tab=repositories">
   <img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ritika-bhargav-791b9b2a4">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ritikaabhargav24@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Ritikabhargavaa">
@@ -42,21 +42,19 @@
 
 ## About Me
 
-I am an early-career **Software and DevOps Engineer** with an integrated computing background and a strong interest in building reliable, scalable, and secure technology solutions. My focus is on combining software engineering fundamentals with cloud infrastructure, automation, containerization, and modern deployment practices.
+I am an early-career **DevOps and Cloud Engineer** with an integrated computing background and a strong interest in cloud infrastructure, automation, containerization, and reliable deployment workflows.
 
-I enjoy understanding systems end to end—from application architecture and development workflows to infrastructure provisioning, deployment automation, monitoring, and reliability. I work with AWS, Terraform, Docker, Kubernetes, Jenkins, Linux, and observability tools to build reproducible environments and streamline delivery.
+I work with AWS, Terraform, Docker, Kubernetes, Jenkins, and Linux to understand how applications are built, deployed, monitored, and maintained. My focus is on Infrastructure as Code, CI/CD automation, container orchestration, cloud networking, and observability.
 
-Beyond infrastructure engineering, I am interested in **AI/ML, full-stack development, and intelligent automation**. I aim to develop a broader engineering skill set that connects backend systems, cloud-native platforms, data-driven applications, and practical AI capabilities.
-
-My engineering mindset emphasizes maintainability, security, automation, performance, and continuous improvement. I value understanding the reasoning behind technical decisions rather than simply implementing tools.
+I enjoy solving infrastructure challenges, learning modern engineering practices, and building practical projects that improve deployment consistency, reliability, and maintainability. I am also exploring Python scripting, AI/ML fundamentals, and automation to expand my technical capabilities.
 
 ### Open To
 
-- Junior Software Engineer and Software Development opportunities
-- Junior DevOps Engineer and Cloud Engineer roles
-- Cloud infrastructure, platform engineering, and CI/CD automation
-- Entry-level AI/ML engineering and intelligent automation projects
-- Open-source collaboration and engineering learning opportunities
+- Junior DevOps Engineer opportunities
+- AWS Cloud Engineer and Cloud Support roles
+- Infrastructure automation and CI/CD projects
+- Kubernetes and containerization projects
+- Entry-level technical roles and open-source collaboration
 
 ---
 
@@ -65,7 +63,7 @@ My engineering mindset emphasizes maintainability, security, automation, perform
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,js,ts,java&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,js,ts&theme=dark" alt="Programming languages"/>
 </p>
 
 ### Frontend
@@ -77,7 +75,7 @@ My engineering mindset emphasizes maintainability, security, automation, perform
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Backend and databases"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and databases"/>
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -89,15 +87,17 @@ My engineering mindset emphasizes maintainability, security, automation, perform
 | Category | Technologies |
 |:--|:--|
 | Cloud Computing | AWS EC2, S3, VPC, IAM, EKS, Route 53 |
-| Infrastructure as Code | Terraform, reusable configurations, modular infrastructure |
-| Containers & Orchestration | Docker, Docker Compose, Kubernetes, Helm fundamentals |
-| CI/CD | Jenkins, declarative pipelines, shared libraries, Git workflows |
+| Infrastructure as Code | Terraform, reusable configurations, modules |
+| Containers | Docker, Docker Compose |
+| Orchestration | Kubernetes, EKS, Helm fundamentals |
+| CI/CD | Jenkins, Declarative Pipelines, Shared Libraries |
 | Configuration Management | Ansible fundamentals |
-| Monitoring & Observability | Prometheus, Grafana, CloudWatch |
+| Monitoring | Prometheus, Grafana, AWS CloudWatch |
+| Security & Quality | IAM, Security Groups, NACLs, Trivy, SonarQube |
+| GitOps & Logging | Argo CD, Filebeat, OpenSearch, Kibana |
 | Operating Systems | Linux, Ubuntu, Amazon Linux, Windows |
 | Scripting & Configuration | Python basics, Bash, YAML, JSON |
-| Security & Quality | IAM, security groups, network policies, Trivy, SonarQube |
-| GitOps & Logging | Argo CD, Filebeat, OpenSearch, Kibana |
+| Version Control | Git, GitHub |
 
 ---
 
@@ -105,13 +105,12 @@ My engineering mindset emphasizes maintainability, security, automation, perform
 
 | Domain | Proficiency | Details |
 |:--|:--|:--|
-| Python for AI/ML | Foundational | Python syntax, scripting, data structures, and automation fundamentals |
-| Machine Learning | Learning | Exploring supervised learning, unsupervised learning, model evaluation, and core ML concepts |
-| Neural Networks | Learning | Studying neural network fundamentals and the concepts behind ANN and CNN architectures |
-| AI-Assisted Engineering | Exploring | Evaluating AI tools for developer productivity, troubleshooting, and workflow automation |
-| MLOps | Exploring | Interested in model deployment, reproducible environments, pipeline automation, and monitoring |
-| Cloud-Based AI | Exploring | Learning how cloud infrastructure supports scalable AI and ML workloads |
-| Intelligent Automation | Foundational interest | Connecting scripting, infrastructure automation, and AI-assisted workflows |
+| Python for Automation | Foundational | Basic Python programming, scripting, and automation concepts |
+| Machine Learning | Learning | Exploring supervised learning, unsupervised learning, and model evaluation |
+| Neural Networks | Learning | Studying ANN and CNN fundamentals |
+| AI-Assisted Engineering | Exploring | Learning how AI tools can assist development and troubleshooting |
+| MLOps | Exploring | Interested in model deployment, pipeline automation, and monitoring |
+| Cloud-Based AI | Exploring | Exploring cloud infrastructure for AI/ML workloads |
 
 ---
 
@@ -124,28 +123,28 @@ My engineering mindset emphasizes maintainability, security, automation, perform
 
 **Overview**
 
-QualiBytesShop is an e-commerce application used to demonstrate DevOps engineering practices across infrastructure provisioning, containerization, continuous integration, security scanning, and Kubernetes deployment. The application uses Next.js, TypeScript, and MongoDB; my focus is on the DevOps implementation rather than claiming ownership of the application code.
+QualiBytesShop is an e-commerce application built with Next.js, TypeScript, and MongoDB. My project focus is the DevOps implementation: infrastructure provisioning, containerization, CI/CD automation, security scanning, and Kubernetes deployment.
 
 | Dimension | Details |
 |:--|:--|
 | Stack | AWS, Terraform, Docker, Docker Compose, Jenkins, Kubernetes, MongoDB, Trivy |
-| Scale | Containerized application and database migration workflow; Kubernetes deployment manifests |
-| Performance | Multi-stage image builds and parallel application/migration build stages |
-| Security | Trivy image scanning, AWS IAM, network isolation, and Kubernetes security configurations |
-| Impact | Repeatable infrastructure, automated build and deployment workflows, and improved delivery consistency |
-| Repository | [View on GitHub](https://github.com/Ritikabhargavaa/ECOMMERCE) |
+| Scale | Containerized application with a database migration workflow |
+| Performance | Multi-stage Docker builds and parallel build stages |
+| Security | Trivy image scanning, AWS IAM, network isolation, Kubernetes configurations |
+| Impact | Repeatable infrastructure and automated build and deployment workflows |
+| Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/ECOMMERCE) |
 
 **Engineering Contributions**
 
 - Provisioned AWS infrastructure using Terraform, including VPC, EKS, and bastion-host resources.
-- Created a multi-stage Dockerfile to support a more efficient application image build.
-- Configured Docker Compose for the application, MongoDB, and database migration service.
-- Developed a declarative Jenkins pipeline with cleanup, source checkout, parallel image builds, unit testing, and Trivy scanning stages.
-- Configured image publishing to Docker Hub and Kubernetes image-tag updates in the deployment workflow.
-- Worked with Jenkins shared libraries to organize reusable pipeline logic.
+- Created a multi-stage Dockerfile for application containerization.
+- Configured Docker Compose for the application, MongoDB, and migration service.
+- Developed a declarative Jenkins pipeline with cleanup, checkout, parallel builds, unit testing, and Trivy scanning.
+- Configured Docker image publishing and Kubernetes image-tag update steps.
+- Worked with Jenkins shared libraries for reusable pipeline logic.
 - Prepared Kubernetes YAML manifests for application deployment and supporting resources.
 
-**Engineering Focus:** Infrastructure as Code, pipeline automation, container security, Kubernetes deployment, and reproducibility.
+**Engineering Focus:** Infrastructure as Code, CI/CD, containerization, image scanning, and Kubernetes deployment.
 
 </details>
 
@@ -156,26 +155,26 @@ QualiBytesShop is an e-commerce application used to demonstrate DevOps engineeri
 
 **Overview**
 
-A network infrastructure project focused on organizing AWS resources into public and private network segments, controlling traffic, and establishing secure connectivity patterns for EC2 workloads.
+An AWS networking project focused on designing a structured VPC, separating public and private subnets, and controlling connectivity for cloud resources.
 
 | Dimension | Details |
 |:--|:--|
 | Stack | AWS VPC, EC2, IAM, Security Groups, NACLs, Internet Gateway, NAT Gateway |
-| Scale | Multi-subnet network architecture with separated network access patterns |
-| Performance | Route-based traffic flow and controlled outbound connectivity |
-| Security | Network segmentation, least-privilege access principles, and security-group rules |
-| Impact | Improved understanding of secure cloud networking and infrastructure design |
-| Repository | [View on GitHub](https://github.com/Ritikabhargavaa/secure-vpc-ec2-project) |
+| Scale | Multi-subnet network architecture |
+| Performance | Organized routing and controlled outbound connectivity |
+| Security | Network segmentation and access-control rules |
+| Impact | Practical understanding of AWS networking and cloud security |
+| Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/secure-vpc-ec2-project) |
 
 **Engineering Contributions**
 
-- Designed a VPC network with public and private subnets.
-- Worked with route tables, Internet Gateway, and NAT Gateway concepts.
-- Configured EC2 connectivity and network access controls.
-- Documented the architecture and its key components.
-- Explored the relationship between routing, network isolation, and cloud security.
+- Designed a VPC with public and private subnet concepts.
+- Worked with route tables, Internet Gateway, and NAT Gateway configurations.
+- Explored EC2 connectivity and network access controls.
+- Organized architecture documentation.
+- Studied routing and isolation patterns for AWS resources.
 
-**Engineering Focus:** Cloud networking, security boundaries, infrastructure design, and AWS fundamentals.
+**Engineering Focus:** AWS networking, routing, access control, and infrastructure design.
 
 </details>
 
@@ -186,7 +185,7 @@ A network infrastructure project focused on organizing AWS resources into public
 
 **Overview**
 
-An Infrastructure as Code project focused on structuring AWS resources into a two-tier architecture and defining infrastructure through version-controlled Terraform configurations.
+An Infrastructure as Code project exploring repeatable AWS resource provisioning and the organization of a two-tier cloud architecture.
 
 | Dimension | Details |
 |:--|:--|
@@ -194,18 +193,18 @@ An Infrastructure as Code project focused on structuring AWS resources into a tw
 | Scale | Two-tier infrastructure design |
 | Performance | Repeatable provisioning and reduced manual configuration |
 | Security | Network segmentation and controlled resource access |
-| Impact | Improved infrastructure consistency and maintainability |
-| Repository | [View GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
+| Impact | Improved understanding of maintainable infrastructure definitions |
+| Repository | [Browse GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
 
 **Engineering Contributions**
 
-- Defined cloud infrastructure declaratively with Terraform.
-- Organized resources and configuration for repeatable deployment.
-- Applied dependency management and infrastructure planning concepts.
-- Explored variable-driven configuration and maintainable resource definitions.
-- Documented architectural decisions and provisioning workflows.
+- Defined infrastructure using Terraform configuration files.
+- Explored resource dependencies and provisioning workflows.
+- Practiced version-controlled infrastructure management.
+- Worked with variables and reusable configuration patterns.
+- Documented infrastructure design concepts.
 
-**Engineering Focus:** Infrastructure as Code, repeatability, configuration management, and cloud architecture.
+**Engineering Focus:** Terraform, cloud architecture, repeatability, and infrastructure automation.
 
 </details>
 
@@ -216,23 +215,23 @@ An Infrastructure as Code project focused on structuring AWS resources into a tw
 
 **Overview**
 
-A Terraform-focused project exploring infrastructure reliability and repeatable database-related resource configuration. The repository provides a starting point for developing infrastructure practices around consistency, recoverability, and maintainability.
+A Terraform project exploring database-related infrastructure configuration and reliability-oriented infrastructure practices.
 
 | Dimension | Details |
 |:--|:--|
 | Stack | Terraform, AWS infrastructure concepts |
 | Scale | Database-related infrastructure configuration |
-| Performance | Focus on repeatable provisioning and configuration consistency |
-| Security | Intended focus on access control and secure infrastructure configuration |
-| Impact | Practice in designing more maintainable infrastructure workflows |
-| Repository | [View on GitHub](https://github.com/Ritikabhargavaa/terraform-db-reliability) |
+| Performance | Repeatable provisioning and configuration consistency |
+| Security | Exploration of access controls and secure configuration |
+| Impact | Practice in infrastructure maintainability and reliability concepts |
+| Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/terraform-db-reliability) |
 
 **Engineering Focus**
 
-- Terraform configuration and resource lifecycle management.
-- Infrastructure organization and version control.
-- Reliability-oriented infrastructure design concepts.
-- Exploration of secure and maintainable database infrastructure.
+- Terraform resource configuration and lifecycle management.
+- Version-controlled infrastructure definitions.
+- Reliability-oriented infrastructure design.
+- Secure and maintainable database infrastructure concepts.
 
 </details>
 
@@ -243,23 +242,23 @@ A Terraform-focused project exploring infrastructure reliability and repeatable 
 
 **Overview**
 
-A containerization project focused on defining and managing multi-container application environments through Docker Compose.
+A containerization project focused on defining and managing multi-service application environments using Docker Compose.
 
 | Dimension | Details |
 |:--|:--|
 | Stack | Docker, Docker Compose, YAML |
-| Scale | Multi-service container orchestration for development workflows |
-| Performance | Reusable container definitions and shared network configuration |
-| Security | Environment-based configuration and container isolation principles |
-| Impact | Simplified service configuration and repeatable development environments |
-| Repository | [View GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
+| Scale | Multi-service development environment |
+| Performance | Reusable container definitions and service configuration |
+| Security | Container isolation and environment-based configuration concepts |
+| Impact | Repeatable local development environments |
+| Repository | [Browse GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
 
 **Engineering Focus**
 
-- Container definitions and image configuration.
+- Docker image and container configuration.
 - Service dependencies and container networking.
-- YAML-based environment configuration.
-- Repeatable local development workflows.
+- YAML-based configuration.
+- Repeatable development workflows.
 
 </details>
 
@@ -272,18 +271,13 @@ A containerization project focused on defining and managing multi-container appl
 **Payroll Company:** Delta 360 Services  
 **Client:** Persistent Systems
 
-**Duration:** Add the exact employment dates documented in your employment records.
+**January 2026 – June 2026**
 
-Working with cloud and DevOps technologies to understand infrastructure operations, deployment workflows, and monitoring practices in a professional environment.
-
-**Scope of Work**
-
-- Check Kubernetes pod status and investigate basic workload health issues.
-- Perform infrastructure checks and assist with operational monitoring.
-- Work with CI/CD processes using Jenkins and Terraform.
-- Use Linux commands for system checks and troubleshooting.
-- Work with Prometheus and Grafana for monitoring and observability.
-- Develop practical understanding of cloud infrastructure, deployment processes, and operational reliability.
+- Monitored Kubernetes pods and performed infrastructure checks.
+- Worked with CI/CD workflows using Jenkins and Terraform.
+- Used Linux commands for operational checks and troubleshooting.
+- Worked with Prometheus and Grafana monitoring tools.
+- Developed practical understanding of cloud infrastructure and deployment workflows.
 
 **Skills:** `AWS` `Linux` `Kubernetes` `Terraform` `Jenkins` `Prometheus` `Grafana` `CI/CD`
 
@@ -294,10 +288,10 @@ Working with cloud and DevOps technologies to understand infrastructure operatio
 | Recognition | Details |
 |:--|:--|
 | Integrated Computing Education | Integrated BCA and MCA academic background at IIPS, DAVV, Indore |
-| Hands-On DevOps Projects | Practical project work involving AWS, Terraform, Docker, Kubernetes, and Jenkins |
-| Infrastructure Automation | Experience developing infrastructure configurations and automated delivery workflows |
-| Cloud-Native Engineering | Exposure to containerization, Kubernetes manifests, and application deployment practices |
-| Continuous Learning | Ongoing development of software engineering, cloud, automation, and AI/ML fundamentals |
+| DevOps Project Experience | Practical projects involving AWS, Terraform, Docker, Kubernetes, and Jenkins |
+| Infrastructure Automation | Hands-on work with infrastructure configuration and deployment workflows |
+| Cloud-Native Technologies | Experience exploring containers, Kubernetes manifests, and cloud infrastructure |
+| Continuous Learning | Ongoing development of cloud, automation, scripting, and AI/ML fundamentals |
 
 ---
 
@@ -306,28 +300,36 @@ Working with cloud and DevOps technologies to understand infrastructure operatio
 ### AWS
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS cloud learning"/>
+  <a href="https://www.credly.com/users/ritika-bhargav">
+    <img src="https://img.shields.io/badge/AWS-Credentials%20on%20Credly-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS credentials"/>
+  </a>
 </p>
 
 ### Oracle
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-Technology%20Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle technology learning"/>
+  <a href="https://www.credly.com/users/ritika-bhargav">
+    <img src="https://img.shields.io/badge/Oracle-Credentials%20on%20Credly-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle credentials"/>
+  </a>
 </p>
 
 ### NPTEL
 
 <p>
-  <img src="https://img.shields.io/badge/NPTEL-Course%20Learning-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL learning"/>
+  <a href="https://www.credly.com/users/ritika-bhargav">
+    <img src="https://img.shields.io/badge/NPTEL-Credentials%20on%20Credly-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL credentials"/>
+  </a>
 </p>
 
 ### Cisco
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Learning-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning"/>
+  <a href="https://www.credly.com/users/ritika-bhargav">
+    <img src="https://img.shields.io/badge/Cisco-Credentials%20on%20Credly-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco credentials"/>
+  </a>
 </p>
 
-> Add only certifications actually completed and replace these provider badges with the corresponding verified credential links. These badges identify providers; they do not establish certification status.
+[View my Credly profile and available credentials](https://www.credly.com/users/ritika-bhargav)
 
 ---
 
@@ -405,31 +407,30 @@ Working with cloud and DevOps technologies to understand infrastructure operatio
 
 ```yaml
 learning:
-  - Software engineering fundamentals and problem solving
   - AWS cloud architecture and networking
-  - Kubernetes, Terraform, and infrastructure automation
-  - Python scripting and AI/ML foundations
-  - Secure CI/CD pipeline design
+  - Kubernetes and Terraform
+  - CI/CD pipeline automation
+  - Linux administration and troubleshooting
+  - Python scripting and AI/ML fundamentals
 
 building:
-  - Reproducible AWS infrastructure with Terraform
+  - AWS infrastructure using Terraform
   - Containerized application deployment workflows
   - Jenkins-based CI/CD pipelines
-  - Cloud-native portfolio projects
+  - Practical cloud and DevOps portfolio projects
 
 exploring:
-  - MLOps and AI-assisted engineering
   - Kubernetes reliability and observability
   - GitOps and deployment automation
-  - Full-stack application architecture
-  - Open-source collaboration
+  - Cloud security and infrastructure best practices
+  - AI-assisted engineering and MLOps fundamentals
 
 open_to:
-  - Junior Software Engineer roles
-  - Junior DevOps and Cloud Engineer roles
-  - Entry-level AI/ML opportunities
-  - Infrastructure automation projects
-  - Open-source contributions
+  - Junior DevOps Engineer roles
+  - AWS Cloud Engineer opportunities
+  - Cloud Support and Infrastructure roles
+  - CI/CD automation projects
+  - Open-source collaboration
 ```
 
 ---
@@ -438,22 +439,22 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Gmail-Professional%20Inquiries-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:ritikaabhargav24@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ritika-bhargav-791b9b2a4">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Ritikabhargavaa">
   <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://github.com/Ritikabhargavaa?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-**Open to meaningful engineering work, collaborative learning, and opportunities to build reliable systems.**
+**Open to cloud engineering opportunities, DevOps projects, and collaborative learning.**
 
 </div>
 
@@ -461,8 +462,9 @@ open_to:
 
 <div align="center">
 
-*"Great engineering is the discipline of making complex systems reliable, understandable, and repeatable."*
+*"Reliable infrastructure starts with automation, clear design, and continuous improvement."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,35:6D28D9,70:312E81,100:0D0B1E&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
+
