@@ -1,460 +1,216 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1E,35:312E81,70:6D28D9,100:4338CA&height=200&section=header&text=Ritika%20Bhargava&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DevOps%20%7C%20AWS%20Cloud%20%7C%20Infrastructure%20Automation&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Profile header"/>
+# Hi, I'm Ritika Bhargava 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Reliable+Cloud+Infrastructure;Automating+CI%2FCD+Pipelines;Working+with+AWS%2C+Terraform+and+Kubernetes;Exploring+Cloud-Native+Technologies;Learning+and+Building+Continuously" alt="Typing animation"/>
+### DevOps Engineer | AWS Cloud | Infrastructure Automation
 
-<br/>
+Building and automating cloud infrastructure with AWS, Terraform, Docker, Kubernetes, and Jenkins.
 
-<img src="https://img.shields.io/badge/Integrated%20BCA%20%2B%20MCA-7C3AED?style=flat-square&logo=academia&logoColor=white" alt="Education"/>
-<img src="https://img.shields.io/badge/IIPS%20DAVV-Indore-4338CA?style=flat-square&logo=google-scholar&logoColor=white" alt="College"/>
-<img src="https://img.shields.io/badge/Location-Indore%2C%20India-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-
-<br/><br/>
-
-<a href="https://github.com/Ritikabhargavaa?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+<a href="https://github.com/Ritikabhargavaa">
+  <img src="https://img.shields.io/badge/GitHub-Ritikabhargavaa-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/ritika-bhargav-791b9b2a4">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:ritikaabhargav24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Ritikabhargavaa">
-  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ritikabhargavaa&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
-<a href="https://github.com/Ritikabhargavaa?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ritikabhargavaa?style=flat-square&color=4338CA&label=FOLLOWERS" alt="Followers"/>
-</a>
-<a href="https://github.com/Ritikabhargavaa?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Ritikabhargavaa?style=flat-square&color=6D28D9&label=TOTAL+STARS" alt="GitHub stars"/>
+  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I am an early-career **DevOps and Cloud Engineer** with an integrated computing background and a strong interest in cloud infrastructure, automation, containerization, and reliable deployment workflows.
-
-I work with AWS, Terraform, Docker, Kubernetes, Jenkins, and Linux to understand how applications are built, deployed, monitored, and maintained. My focus is on Infrastructure as Code, CI/CD automation, container orchestration, cloud networking, and observability.
-
-I enjoy solving infrastructure challenges, learning modern engineering practices, and building practical projects that improve deployment consistency, reliability, and maintainability. I am also exploring Python scripting, AI/ML fundamentals, and automation to expand my technical capabilities.
-
-### Open To
-
-- Junior DevOps Engineer opportunities
-- AWS Cloud Engineer and Cloud Support roles
-- Infrastructure automation and CI/CD projects
-- Kubernetes and containerization projects
-- Entry-level technical roles and open-source collaboration
+- ☁️ Interested in **DevOps Engineering, AWS Cloud, and Infrastructure Automation**
+- 🔧 Hands-on experience with cloud infrastructure, CI/CD pipelines, and containerization
+- 🚀 Working with **AWS, Terraform, Docker, Kubernetes, and Jenkins**
+- 🐧 Comfortable with Linux administration, Git, and scripting fundamentals
+- 📊 Exploring monitoring and observability using Prometheus and Grafana
+- 🎓 Integrated BCA + MCA graduate from IIPS, DAVV, Indore
+- 📍 Based in Indore, India
+- 📫 Reach me at **[ritikaabhargav24@gmail.com](mailto:ritikaabhargav24@gmail.com)**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash,js,ts&theme=dark" alt="Programming languages"/>
-</p>
-
-### Frontend
+### ☁️ Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux&theme=dark" alt="Frontend technologies"/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform" alt="AWS and Terraform"/>
 </p>
 
-### Backend & Databases
+![EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/Amazon%20S3-232F3E?style=flat-square&logo=amazons3&logoColor=569A31)
+![VPC](https://img.shields.io/badge/Amazon%20VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![EKS](https://img.shields.io/badge/Amazon%20EKS-232F3E?style=flat-square&logo=amazoneks&logoColor=FF9900)
+![Route 53](https://img.shields.io/badge/Route%2053-232F3E?style=flat-square&logo=amazonroute53&logoColor=8C4FFF)
+
+### 🔄 DevOps & CI/CD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and databases"/>
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,ansible" alt="DevOps tools"/>
 </p>
 
-### Cloud, DevOps & Tooling
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-6D28D9?style=flat-square)
+![Jenkins Pipelines](https://img.shields.io/badge/Jenkins-Pipelines-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+### 📈 Monitoring & Security
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,ansible,linux,git,github,prometheus,grafana,nginx&theme=dark" alt="Cloud and DevOps technologies"/>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring tools"/>
 </p>
 
-| Category | Technologies |
-|:--|:--|
-| Cloud Computing | AWS EC2, S3, VPC, IAM, EKS, Route 53 |
-| Infrastructure as Code | Terraform, reusable configurations, modules |
-| Containers | Docker, Docker Compose |
-| Orchestration | Kubernetes, EKS, Helm fundamentals |
-| CI/CD | Jenkins, Declarative Pipelines, Shared Libraries |
-| Configuration Management | Ansible fundamentals |
-| Monitoring | Prometheus, Grafana, AWS CloudWatch |
-| Security & Quality | IAM, Security Groups, NACLs, Trivy, SonarQube |
-| GitOps & Logging | Argo CD, Filebeat, OpenSearch, Kibana |
-| Operating Systems | Linux, Ubuntu, Amazon Linux, Windows |
-| Scripting & Configuration | Python basics, Bash, YAML, JSON |
-| Version Control | Git, GitHub |
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
+### 💻 Programming & Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,bash,powershell,yaml" alt="Programming and operating systems"/>
+</p>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 ---
 
-## AI / ML Expertise
+## 🚀 Featured Projects
 
-| Domain | Proficiency | Details |
-|:--|:--|:--|
-| Python for Automation | Foundational | Basic Python programming, scripting, and automation concepts |
-| Machine Learning | Learning | Exploring supervised learning, unsupervised learning, and model evaluation |
-| Neural Networks | Learning | Studying ANN and CNN fundamentals |
-| AI-Assisted Engineering | Exploring | Learning how AI tools can assist development and troubleshooting |
-| MLOps | Exploring | Interested in model deployment, pipeline automation, and monitoring |
-| Cloud-Based AI | Exploring | Exploring cloud infrastructure for AI/ML workloads |
+### 1. 🛍️ QualiBytesShop — End-to-End DevOps & Cloud Deployment
 
----
+A DevOps implementation for an e-commerce application, focusing on infrastructure provisioning, containerization, CI/CD automation, and Kubernetes deployment.
 
-## Featured Projects
+**Tools & Technologies:**
+`AWS` `Terraform` `Docker` `Docker Compose` `Jenkins` `Kubernetes` `Trivy` `MongoDB`
 
-### 01. QualiBytesShop — End-to-End DevOps & Cloud Deployment
-
-<details>
-<summary><strong>View Project Details</strong></summary>
-
-**Overview**
-
-QualiBytesShop is an e-commerce application built with Next.js, TypeScript, and MongoDB. My project focus is the DevOps implementation: infrastructure provisioning, containerization, CI/CD automation, security scanning, and Kubernetes deployment.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | AWS, Terraform, Docker, Docker Compose, Jenkins, Kubernetes, MongoDB, Trivy |
-| Scale | Containerized application with a database migration workflow |
-| Performance | Multi-stage Docker builds and parallel build stages |
-| Security | Trivy image scanning, AWS IAM, network isolation, Kubernetes configurations |
-| Impact | Repeatable infrastructure and automated build and deployment workflows |
-| Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/ECOMMERCE) |
-
-**Engineering Contributions**
-
-- Provisioned AWS infrastructure using Terraform, including VPC, EKS, and bastion-host resources.
-- Created a multi-stage Dockerfile for application containerization.
+- Provisioned AWS infrastructure using Terraform, including VPC and EKS resources.
+- Created Docker build configurations for application and migration services.
 - Configured Docker Compose for the application, MongoDB, and migration service.
-- Developed a declarative Jenkins pipeline with cleanup, checkout, parallel builds, unit testing, and Trivy scanning.
-- Configured Docker image publishing and Kubernetes image-tag update steps.
-- Worked with Jenkins shared libraries for reusable pipeline logic.
-- Prepared Kubernetes YAML manifests for application deployment and supporting resources.
+- Developed a Jenkins declarative pipeline with parallel image builds, testing, security scanning, and image publishing.
+- Worked with Kubernetes manifests for application deployment and image updates.
 
-**Engineering Focus:** Infrastructure as Code, CI/CD, containerization, image scanning, and Kubernetes deployment.
-
-</details>
-
-### 02. Secure AWS VPC Architecture with EC2
-
-<details>
-<summary><strong>View Project Details</strong></summary>
-
-**Overview**
-
-An AWS networking project focused on designing a structured VPC, separating public and private subnets, and controlling connectivity for cloud resources.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | AWS VPC, EC2, IAM, Security Groups, NACLs, Internet Gateway, NAT Gateway |
-| Scale | Multi-subnet network architecture |
-| Performance | Organized routing and controlled outbound connectivity |
-| Security | Network segmentation and access-control rules |
-| Impact | Practical understanding of AWS networking and cloud security |
-| Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/secure-vpc-ec2-project) |
-
-**Engineering Contributions**
-
-- Designed a VPC with public and private subnet concepts.
-- Worked with route tables, Internet Gateway, and NAT Gateway configurations.
-- Explored EC2 connectivity and network access controls.
-- Organized architecture documentation.
-- Studied routing and isolation patterns for AWS resources.
-
-**Engineering Focus:** AWS networking, routing, access control, and infrastructure design.
-
-</details>
-
-### 03. Terraform AWS Two-Tier Architecture
-
-<details>
-<summary><strong>View Project Details</strong></summary>
-
-**Overview**
-
-An Infrastructure as Code project exploring repeatable AWS resource provisioning and the organization of a two-tier cloud architecture.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | Terraform, AWS, VPC, EC2, networking resources |
-| Scale | Two-tier infrastructure design |
-| Performance | Repeatable provisioning and reduced manual configuration |
-| Security | Network segmentation and controlled resource access |
-| Impact | Improved understanding of maintainable infrastructure definitions |
-| Repository | [Browse GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
-
-**Engineering Contributions**
-
-- Defined infrastructure using Terraform configuration files.
-- Explored resource dependencies and provisioning workflows.
-- Practiced version-controlled infrastructure management.
-- Worked with variables and reusable configuration patterns.
-- Documented infrastructure design concepts.
-
-**Engineering Focus:** Terraform, cloud architecture, repeatability, and infrastructure automation.
-
-</details>
-
-### 04. Terraform Database Reliability
-
-<details>
-<summary><strong>View Project Details</strong></summary>
-
-**Overview**
-
-A Terraform project exploring database-related infrastructure configuration and reliability-oriented infrastructure practices.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | Terraform, AWS infrastructure concepts |
-| Scale | Database-related infrastructure configuration |
-| Performance | Repeatable provisioning and configuration consistency |
-| Security | Exploration of access controls and secure configuration |
-| Impact | Practice in infrastructure maintainability and reliability concepts |
-| Repository | [View Project on GitHub](https://github.com/Ritikabhargavaa/terraform-db-reliability) |
-
-**Engineering Focus**
-
-- Terraform resource configuration and lifecycle management.
-- Version-controlled infrastructure definitions.
-- Reliability-oriented infrastructure design.
-- Secure and maintainable database infrastructure concepts.
-
-</details>
-
-### 05. Docker Compose — Multi-Service Development
-
-<details>
-<summary><strong>View Project Details</strong></summary>
-
-**Overview**
-
-A containerization project focused on defining and managing multi-service application environments using Docker Compose.
-
-| Dimension | Details |
-|:--|:--|
-| Stack | Docker, Docker Compose, YAML |
-| Scale | Multi-service development environment |
-| Performance | Reusable container definitions and service configuration |
-| Security | Container isolation and environment-based configuration concepts |
-| Impact | Repeatable local development environments |
-| Repository | [Browse GitHub Repositories](https://github.com/Ritikabhargavaa?tab=repositories) |
-
-**Engineering Focus**
-
-- Docker image and container configuration.
-- Service dependencies and container networking.
-- YAML-based configuration.
-- Repeatable development workflows.
-
-</details>
+<a href="https://github.com/Ritikabhargavaa/ECOMMERCE">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View QualiBytesShop project"/>
+</a>
 
 ---
 
-## Experience
+### 2. 🔐 Secure VPC Setup with EC2 Instances
 
-### Junior DevOps Engineer
+An AWS networking project focused on designing secure network infrastructure and controlling access to cloud resources.
 
-**Payroll Company:** Delta 360 Services  
-**Client:** Persistent Systems
+**Tools & Technologies:**
+`AWS VPC` `EC2` `IAM` `Security Groups` `NACLs` `NAT Gateway` `Route Tables`
 
-**January 2026 – June 2026**
+- Designed public and private subnet architecture.
+- Worked with internet gateway, NAT gateway, and route table configurations.
+- Applied security groups and network access control lists.
+- Organized infrastructure documentation and architecture diagrams.
 
-- Monitored Kubernetes pods and performed infrastructure checks.
-- Worked with CI/CD workflows using Jenkins and Terraform.
-- Used Linux commands for operational checks and troubleshooting.
-- Worked with Prometheus and Grafana monitoring tools.
-- Developed practical understanding of cloud infrastructure and deployment workflows.
-
-**Skills:** `AWS` `Linux` `Kubernetes` `Terraform` `Jenkins` `Prometheus` `Grafana` `CI/CD`
-
----
-
-## Achievements
-
-| Recognition | Details |
-|:--|:--|
-| Integrated Computing Education | Integrated BCA and MCA academic background at IIPS, DAVV, Indore |
-| DevOps Project Experience | Practical projects involving AWS, Terraform, Docker, Kubernetes, and Jenkins |
-| Infrastructure Automation | Hands-on work with infrastructure configuration and deployment workflows |
-| Cloud-Native Technologies | Experience exploring containers, Kubernetes manifests, and cloud infrastructure |
-| Continuous Learning | Ongoing development of cloud, automation, scripting, and AI/ML fundamentals |
+<a href="https://github.com/Ritikabhargavaa/secure-vpc-ec2-project">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Secure VPC project"/>
+</a>
 
 ---
 
-## Certifications
+### 3. 🏗️ Terraform Database Reliability
 
-### AWS
+Infrastructure-as-Code project focused on managing and improving the reliability of database-related infrastructure using Terraform.
 
-<p>
-  <a href="https://www.credly.com/users/ritika-bhargav">
-    <img src="https://img.shields.io/badge/AWS-Credentials%20on%20Credly-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS credentials"/>
-  </a>
-</p>
+**Tools & Technologies:**
+`Terraform` `AWS` `Infrastructure as Code`
 
-### Oracle
+- Organized infrastructure configuration using Terraform.
+- Practiced reusable and maintainable infrastructure definitions.
+- Focused on consistent infrastructure provisioning.
 
-<p>
-  <a href="https://www.credly.com/users/ritika-bhargav">
-    <img src="https://img.shields.io/badge/Oracle-Credentials%20on%20Credly-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle credentials"/>
-  </a>
-</p>
-
-### NPTEL
-
-<p>
-  <a href="https://www.credly.com/users/ritika-bhargav">
-    <img src="https://img.shields.io/badge/NPTEL-Credentials%20on%20Credly-6D28D9?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL credentials"/>
-  </a>
-</p>
-
-### Cisco
-
-<p>
-  <a href="https://www.credly.com/users/ritika-bhargav">
-    <img src="https://img.shields.io/badge/Cisco-Credentials%20on%20Credly-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco credentials"/>
-  </a>
-</p>
-
-[View my Credly profile and available credentials](https://www.credly.com/users/ritika-bhargav)
+<a href="https://github.com/Ritikabhargavaa/terraform-db-reliability">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View Terraform database reliability project"/>
+</a>
 
 ---
 
-## Coding Profiles
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Coding-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"/>
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Practice-4338CA?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/>
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Algorithms-4F46E5?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ritikabhargavaa&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="Ritika's GitHub statistics"/>
 
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Ritikabhargavaa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ritikabhargavaa&show_icons=true&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Ritikabhargavaa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikabhargavaa&layout=compact&hide_border=true&bg_color=0D0B1E&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Most used programming languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikabhargavaa&layout=compact&theme=midnight-purple&hide_border=true" alt="Most used languages"/>
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Ritikabhargavaa&hide_border=true&background=0D0B1E&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Ritikabhargavaa&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## 🎓 Certifications
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ritikabhargavaa&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub profile trophies"/>
+<a href="https://www.coursera.org/account/accomplishments/verify/BNE6S4TMWMLD">
+  <img src="https://img.shields.io/badge/Python%20Crash%20Course-Coursera-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" alt="Python Crash Course — Coursera"/>
+</a>
+
+<a href="https://www.credly.com/badges/7043854d-30a4-4cb0-b547-871d6ea0bb57">
+  <img src="https://img.shields.io/badge/Google%20UX%20Design-Coursera-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google UX Design Professional Certificate"/>
+</a>
+
+<a href="https://www.credly.com/users/ritika-bhargav">
+  <img src="https://img.shields.io/badge/Credly-View%20Credentials-6D28D9?style=for-the-badge&logo=credly&logoColor=white" alt="Credly credentials"/>
+</a>
 
 </div>
 
+- **Python Crash Course** — Coursera | [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/BNE6S4TMWMLD)
+- **DevOps + AWS Program** — QualiBytes IT Academy | Certificate ID: `QB/QA07570`
+- **Google UX Design Professional Certificate** — Coursera | [View Credential](https://www.credly.com/badges/7043854d-30a4-4cb0-b547-871d6ea0bb57)
+- **Additional Credentials** — [View my Credly Profile](https://www.credly.com/users/ritika-bhargav)
+
 ---
 
-## Contribution Activity
+## 🎯 Current Focus
+
+- Deepening knowledge of AWS services and cloud architecture.
+- Practicing Terraform modules, state management, and reusable infrastructure.
+- Improving CI/CD workflows with Jenkins.
+- Strengthening Kubernetes deployment and troubleshooting skills.
+- Learning monitoring, logging, and DevSecOps practices.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritikabhargavaa&bg_color=0D0B1E&color=A78BFA&line=7C3AED&point=818CF8&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/Ritikabhargavaa">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"/>
+</a>
 
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ritikabhargavaa/Ritikabhargavaa/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-learning:
-  - AWS cloud architecture and networking
-  - Kubernetes and Terraform
-  - CI/CD pipeline automation
-  - Linux administration and troubleshooting
-  - Python scripting and AI/ML fundamentals
-
-building:
-  - AWS infrastructure using Terraform
-  - Containerized application deployment workflows
-  - Jenkins-based CI/CD pipelines
-  - Practical cloud and DevOps portfolio projects
-
-exploring:
-  - Kubernetes reliability and observability
-  - GitOps and deployment automation
-  - Cloud security and infrastructure best practices
-  - AI-assisted engineering and MLOps fundamentals
-
-open_to:
-  - Junior DevOps Engineer roles
-  - AWS Cloud Engineer opportunities
-  - Cloud Support and Infrastructure roles
-  - CI/CD automation projects
-  - Open-source collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
+<a href="https://www.linkedin.com/in/ritika-bhargav-791b9b2a4">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+</a>
 
 <a href="mailto:ritikaabhargav24@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Send%20a%20Message-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ritika"/>
 </a>
-<a href="https://www.linkedin.com/in/ritika-bhargav-791b9b2a4">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Ritikabhargavaa">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+
 <a href="https://github.com/Ritikabhargavaa?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Projects-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio projects"/>
 </a>
-
-<br/><br/>
-
-**Open to cloud engineering opportunities, DevOps projects, and collaborative learning.**
 
 </div>
 
@@ -462,9 +218,8 @@ open_to:
 
 <div align="center">
 
-*"Reliable infrastructure starts with automation, clear design, and continuous improvement."*
+### ☁️ Automate. Deploy. Monitor. Improve.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,35:6D28D9,70:312E81,100:0D0B1E&height=120&section=footer" width="100%" alt="Footer banner"/>
+*Learning continuously and building practical cloud and DevOps projects.*
 
 </div>
-
